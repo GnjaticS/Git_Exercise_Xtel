@@ -8,3 +8,5 @@ print("Sum:", sum)
 print("Difference:", difference)
 print("Product:", product)
 print("Quotient:", quotient)
+
+print(x + y + y)
